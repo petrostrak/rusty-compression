@@ -1,2 +1,2 @@
-# rusty-compression
+## Rusty Compression
 A compression program written in Rust!
